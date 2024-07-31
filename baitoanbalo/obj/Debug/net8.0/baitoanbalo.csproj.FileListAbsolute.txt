@@ -1,0 +1,14 @@
+D:\2033210496_NguyenVanTrinh\baitoanbalo\bin\Debug\net8.0\baitoanbalo.exe
+D:\2033210496_NguyenVanTrinh\baitoanbalo\bin\Debug\net8.0\baitoanbalo.deps.json
+D:\2033210496_NguyenVanTrinh\baitoanbalo\bin\Debug\net8.0\baitoanbalo.runtimeconfig.json
+D:\2033210496_NguyenVanTrinh\baitoanbalo\bin\Debug\net8.0\baitoanbalo.dll
+D:\2033210496_NguyenVanTrinh\baitoanbalo\bin\Debug\net8.0\baitoanbalo.pdb
+D:\2033210496_NguyenVanTrinh\baitoanbalo\obj\Debug\net8.0\baitoanbalo.GeneratedMSBuildEditorConfig.editorconfig
+D:\2033210496_NguyenVanTrinh\baitoanbalo\obj\Debug\net8.0\baitoanbalo.AssemblyInfoInputs.cache
+D:\2033210496_NguyenVanTrinh\baitoanbalo\obj\Debug\net8.0\baitoanbalo.AssemblyInfo.cs
+D:\2033210496_NguyenVanTrinh\baitoanbalo\obj\Debug\net8.0\baitoanbalo.csproj.CoreCompileInputs.cache
+D:\2033210496_NguyenVanTrinh\baitoanbalo\obj\Debug\net8.0\baitoanbalo.dll
+D:\2033210496_NguyenVanTrinh\baitoanbalo\obj\Debug\net8.0\refint\baitoanbalo.dll
+D:\2033210496_NguyenVanTrinh\baitoanbalo\obj\Debug\net8.0\baitoanbalo.pdb
+D:\2033210496_NguyenVanTrinh\baitoanbalo\obj\Debug\net8.0\baitoanbalo.genruntimeconfig.cache
+D:\2033210496_NguyenVanTrinh\baitoanbalo\obj\Debug\net8.0\ref\baitoanbalo.dll

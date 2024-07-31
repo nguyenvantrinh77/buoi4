@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2033210496_NguyenVanTrinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA27B663-8D8A-421C-80F9-D8E9CD963111}|baitoanbalo\\baitoanbalo.csproj|d:\\2033210496_nguyenvantrinh\\baitoanbalo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA27B663-8D8A-421C-80F9-D8E9CD963111}|baitoanbalo\\baitoanbalo.csproj|solutionrelative:baitoanbalo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 178,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2033210496_NguyenVanTrinh\\baitoanbalo\\Program.cs",
+              "RelativeDocumentMoniker": "baitoanbalo\\Program.cs",
+              "ToolTip": "D:\\2033210496_NguyenVanTrinh\\baitoanbalo\\Program.cs",
+              "RelativeToolTip": "baitoanbalo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:47:07.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
